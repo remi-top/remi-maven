@@ -161,14 +161,14 @@ under the License.
     <mirror>
       <id>remi-maven</id>
       <mirrorOf>*</mirrorOf>
-      <name>瑞米平台私有仓库</name>
-      <url>https://repository.njydsz.com/repository/maven-public/</url>
+      <name>瑞米平台开源仓库</name>
+      <url>https://nexus.njydsz.com/repository/remi-top/</url>
     </mirror>
     <mirror>
         <id>ali-maven</id>
         <mirrorOf>*</mirrorOf>
         <name>阿里云公共仓库</name>
-        <url>https://maven.aliyun.com/repository/public</url>
+        <url>https://maven.aliyun.com/repository/public/</url>
     </mirror>
   </mirrors>
 
