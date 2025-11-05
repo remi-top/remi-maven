@@ -31,29 +31,6 @@
     </profile>
   </profiles>
 
-  <servers>
-    <server>
-      <id>maven-public</id>
-      <username>ydsz</username>
-      <password>ydsz1020</password>
-    </server>
-    <server>
-      <id>maven-releases</id>
-      <username>ydsz</username>
-      <password>ydsz1020</password>
-    </server>
-    <server>
-      <id>maven-snapshots</id>
-      <username>ydsz</username>
-      <password>ydsz1020</password>
-    </server>
-    <server>
-      <id>maven-central</id>
-      <username>ydsz</username>
-      <password>ydsz1020</password>
-    </server>
-  </servers>
-
   <mirrors>
 	<!-- 瑞米软件公共仓库-->
     <mirror>
