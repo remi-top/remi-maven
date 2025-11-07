@@ -13,7 +13,7 @@ Remi Maven 即 瑞米软件快速开发平台的依赖管理中心。由[南京�
 
 ## 文档视频
 
-https://www.yuque.com/marvin-lee/remisoft
+https://www.yuque.com/marvin-lee/openremi
 
 
 ## 体验地址
