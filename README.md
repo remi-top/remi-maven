@@ -2,22 +2,31 @@
 
 ## 平台简介
 
-Remi Maven 即 Rime Dev Tools 瑞米快速开发平台的依赖配置中心。
+Remi Maven 即 瑞米软件快速开发平台的依赖管理中心。由[南京云顶数字科技有限公司](https://njydsz.com)提供技术支持。
 
-### 分支说明
+## 分支说明
 
-- main: 同步更新
+- main: 保护分支，暂不维护
+- 2.7.X: java11 + springboot 2.7.18 + springcloud 2021
+- 3.3.X: java17 + springboot 3.3.3 + springcloud 2023
+- 3.5.X: java21 + springboot 3.5.6 + springcloud 2025
 
-### 文档视频
+## 文档视频
 
-https://remi.yuque.com/r/organizations/homepage
+https://www.yuque.com/marvin-lee/remisoft
 
 
-### 体验地址
+## 体验地址
 
-https://remi.run
+https://openremi.com.cn/demo
 
-RemiAdmin/123456
+### 账号
+
+Remi
+
+### 密码
+
+Remi@1020
 
 
 
